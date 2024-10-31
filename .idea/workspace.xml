@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec6c2de-b646-4b25-8f14-649719251312" name="Changes" comment="sss">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Домашка/dz2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Домашка/dz2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Домашка/dz3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Домашка/dz3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.dz2.executor": "Run",
+    "Python.dz3.executor": "Run",
     "Python.paraa1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729954963345</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sss">
+      <option name="closed" value="true" />
+      <created>1729976530140</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729976530140</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
