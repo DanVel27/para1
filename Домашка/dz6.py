@@ -5,11 +5,14 @@ class Task:
         self.deadline = deadline
         self.status = status
 
-    def attack(self, char):
-        print("This is", char.name, ", he has", char.health, "HP.")
+
+class TaskManager(Task):
+    def add(self):
+        print("Task added.")
+
+    def remove(self):
+        print("Task removed.")
 
 
-class Hero:
-    def __init__(self, name, health):
-        self.name = name
-        self.health = health
+task1 = Task("class", "create class named task", 5, "not done")
+taskmanaager1 = TaskManager()
