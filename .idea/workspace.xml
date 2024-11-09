@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec6c2de-b646-4b25-8f14-649719251312" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/Классная работа/yrok4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Домашка/dz7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Домашка/dz6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Домашка/dz6.py" afterDir="false" />
     </list>
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731147583504</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hi">
+      <option name="closed" value="true" />
+      <created>1731166763985</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731166763985</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

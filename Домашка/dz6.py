@@ -5,7 +5,6 @@ class Task:
         self.deadline = deadline
         self.status = status
 
-
 class TaskManager(Task):
     def add(self):
         print("Task added.")
@@ -13,6 +12,11 @@ class TaskManager(Task):
     def remove(self):
         print("Task removed.")
 
+    def mark(self):
+        print("Done")
+
 
 task1 = Task("class", "create class named task", 5, "not done")
-taskmanaager1 = TaskManager()
+taskmanager1 = TaskManager("class", "create class named task", 5, "not done")
+task1.name()
+taskmanager1.add()
