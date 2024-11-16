@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec6c2de-b646-4b25-8f14-649719251312" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/Домашка/dz8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Домашка/dz7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Домашка/dz7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ad.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dz6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.paraa1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sdasd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.yrok3(4,5 para).executor&quot;: &quot;Run&quot;,
-    &quot;Python.yrok4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python/para1/Классная работа&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ad.executor": "Run",
+    "Python.dz2.executor": "Run",
+    "Python.dz3.executor": "Run",
+    "Python.dz4.executor": "Run",
+    "Python.dz5.executor": "Run",
+    "Python.dz6.executor": "Run",
+    "Python.dz7.executor": "Run",
+    "Python.paraa1.executor": "Run",
+    "Python.sdasd.executor": "Run",
+    "Python.yrok3(4,5 para).executor": "Run",
+    "Python.yrok4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/python/para1/Классная работа",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\python\para1\Классная работа" />
@@ -167,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731168460475</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="hi">
+      <option name="closed" value="true" />
+      <created>1731708320557</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731708320557</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
