@@ -1,6 +1,5 @@
 from abc import ABC, abstractmethod
 
-from Домашка.dz8 import Player
 
 
 class GameCharacter(ABC):
