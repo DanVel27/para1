@@ -1,9 +1,8 @@
-from abc import ABC, abstractmethod
+# from abc import ABC, abstractmethod
 
 
-
-class GameCharacter(ABC):
-    @abstractmethod
+class GameCharacter():
+    #@abstractmethod
     def attack(self):
         pass
 
@@ -20,8 +19,6 @@ class Mage(GameCharacter):
 
 warrior1 = Warrior()
 mage1 = Mage()
-print(warrior1.attack())
-print(mage1.attack())
 
 
 class PlayerInventory:
@@ -43,8 +40,3 @@ class PlayerInventory:
 
 
 player1 = PlayerInventory(1)
-player1.show_inventory()
-player1.add_item(4)
-player1.show_inventory()
-player1.remove_item(2)
-player1.show_inventory()
